@@ -1,0 +1,2 @@
+cd ~/course281
+source venv/bin/activate
